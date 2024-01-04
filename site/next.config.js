@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'SCICO workspaces',
+    description: 'Additional KASMworkspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://www.scico.io/',
+    contactUrl: 'https://www.scico.io',
   },
   reactStrictMode: true,
   swcMinify: true,
